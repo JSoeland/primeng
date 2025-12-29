@@ -29,7 +29,7 @@ import type { PanelMenuDesignTokens } from '@primeuix/themes/types/panelmenu';
         },
         padding: "0.25rem 0.25rem",
         background: "{content.background}",
-        borderColor: "{content.border.color}",
+        borderColor: "{panelmenu.panel.background}",
         borderWidth: "1px",
         borderRadius: "{content.border.radius}"
     },
