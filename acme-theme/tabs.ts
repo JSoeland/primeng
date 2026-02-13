@@ -28,7 +28,7 @@ import type { TabsDesignTokens } from '@primeuix/themes/types/tabs';
         transitionDuration: "{transition.duration}"
     },
     tablist: {
-        background: "{content.background}",
+        background: "{autocomplete.background}",
         borderColor: "{content.border.color}",
         borderWidth: "0 0 1px 0"
     },
