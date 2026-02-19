@@ -23,7 +23,7 @@ import type { TreeDesignTokens } from '@primeuix/themes/types/tree';
         color: "{content.color}",
         indent: "1rem",
         padding: "1rem",
-        background: "{content.background}",
+        background: "{surface.950}",
         transitionDuration: "{transition.duration}"
     },
     filter: {

@@ -5,7 +5,7 @@ import type { PopoverDesignTokens } from '@primeuix/themes/types/popover';
         color: "{overlay.popover.color}",
         gutter: "10px",
         shadow: "{overlay.popover.shadow}",
-        background: "{overlay.popover.background}",
+        background: "{surface.950}",
         arrowOffset: "1.25rem",
         borderColor: "{overlay.popover.border.color}",
         borderRadius: "{overlay.popover.border.radius}"
