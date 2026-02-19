@@ -449,7 +449,7 @@ export default {
                 },
                 popover: {
                     color: "{text.color}",
-                    background: "{surface.900}",
+                    background: "{surface.950}",
                     borderColor: "{surface.700}"
                 }
             },
