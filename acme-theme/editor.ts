@@ -16,7 +16,7 @@ import type { EditorDesignTokens } from '@primeuix/themes/types/editor';
         borderRadius: "{overlay.select.border.radius}"
     },
     toolbar: {
-        background: "{content.background}",
+        background: "{overlay.popover.background}",
         borderColor: "{content.border.color}",
         borderRadius: "{content.border.radius}"
     },

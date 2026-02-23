@@ -486,13 +486,13 @@ export default {
                 hoverBorderColor: "{surface.500}",
                 placeholderColor: "{surface.400}",
                 disabledBackground: "{surface.700}",
-                invalidBorderColor: "{red.300}",
+                invalidBorderColor: "{red.500}",
                 floatLabelFocusColor: "{surface.400}",
                 filledFocusBackground: "{surface.800}",
                 filledHoverBackground: "{surface.800}",
                 floatLabelActiveColor: "{surface.400}",
                 floatLabelInvalidColor: "{form.field.invalid.placeholder.color}",
-                invalidPlaceholderColor: "{red.400}"
+                invalidPlaceholderColor: "{red.500}"
             },
             highlight: {
                 color: "rgba(255,255,255,.87)",
@@ -611,7 +611,7 @@ export default {
                 hoverBorderColor: "{surface.400}",
                 placeholderColor: "{surface.500}",
                 disabledBackground: "{surface.200}",
-                invalidBorderColor: "{red.400}",
+                invalidBorderColor: "{red.500}",
                 floatLabelFocusColor: "{surface.500}",
                 filledFocusBackground: "{surface.50}",
                 filledHoverBackground: "{surface.50}",

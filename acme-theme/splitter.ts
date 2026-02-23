@@ -3,7 +3,7 @@ import type { SplitterDesignTokens } from '@primeuix/themes/types/splitter';
  export default {
     root: {
         color: "{content.color}",
-        background: "{content.background}",
+        background: "{overlay.popover.background}",
         borderColor: "{content.border.color}",
         transitionDuration: "{transition.duration}"
     },

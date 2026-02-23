@@ -28,7 +28,7 @@ import type { TabsDesignTokens } from '@primeuix/themes/types/tabs';
         transitionDuration: "{transition.duration}"
     },
     tablist: {
-        background: "{autocomplete.background}",
+        background: "{overlay.popover.background}",
         borderColor: "{content.border.color}",
         borderWidth: "0 0 1px 0"
     },
@@ -42,7 +42,7 @@ import type { TabsDesignTokens } from '@primeuix/themes/types/tabs';
             offset: "{focus.ring.offset}",
             shadow: "{focus.ring.shadow}"
         },
-        background: "{content.background}"
+        background: "{overlay.popover.background}"
     },
     activeBar: {
         bottom: "-1px",
