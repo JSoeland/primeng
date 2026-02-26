@@ -3,7 +3,7 @@ import type { PanelDesignTokens } from '@primeuix/themes/types/panel';
  export default {
     root: {
         color: "{content.color}",
-        background: "{overlay.popover.background}",
+        background: "{datatable.header.background}",
         borderColor: "{content.border.color}",
         borderRadius: "{content.border.radius}"
     },
