@@ -2,7 +2,7 @@ import type { TreeDesignTokens } from '@primeuix/themes/types/tree';
 
  export default {
     node: {
-        gap: "0.25rem",
+        gap: "0.5rem",
         color: "{text.color}",
         padding: "0.25rem 0.5rem",
         focusRing: {
